@@ -73,13 +73,11 @@ http://localhost:8501
 
 ## 🌐 Live Demo (Deployment)
 
-🔗 **Live App:**  
-👉 https://YOUR-STREAMLIT-URL-HERE
+## 🌐 Live Demo (Deployment)
 
-🔗 **GitHub Repository:**  
-👉 https://github.com/YOUR-USERNAME/faq-ai-assistant
+🔗 Live App: https://faq-ai-assistant-xxxxx.streamlit.app  
+🔗 GitHub Repository: https://github.com/YOUR-USERNAME/faq-ai-assistant
 
-_Replace the links above with your actual link and GitHub username when deployed._
 
 ---
 
