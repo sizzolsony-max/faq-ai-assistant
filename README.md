@@ -76,7 +76,7 @@ http://localhost:8501
 ## 🌐 Live Demo (Deployment)
 
 🔗 Live App: https://faq-ai-assistant-xxxxx.streamlit.app  
-🔗 GitHub Repository: https://github.com/YOUR-USERNAME/faq-ai-assistant
+🔗 GitHub Repository: https://github.com/sizzolsony-max/faq-ai-assistant
 
 
 ---
